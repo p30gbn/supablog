@@ -1,0 +1,96 @@
+{
+  "user": {
+    "id": "9afb31e0-901a-40f6-8d0a-dc71a51f27f4",
+    "aud": "authenticated",
+    "role": "authenticated",
+    "email": "p30gbdev2@gmail.com",
+    "email_confirmed_at": "2025-09-03T15:21:20.474012Z",
+    "phone": "",
+    "confirmation_sent_at": "2025-09-03T15:18:51.581941Z",
+    "confirmed_at": "2025-09-03T15:21:20.474012Z",
+    "last_sign_in_at": "2025-09-04T17:39:06.012137877Z",
+    "app_metadata": { "provider": "email", "providers": ["email"] },
+    "user_metadata": {
+      "email": "p30gbdev2@gmail.com",
+      "email_verified": true,
+      "firstName": "mahsa",
+      "lastName": "karimi",
+      "phone_verified": false,
+      "sub": "9afb31e0-901a-40f6-8d0a-dc71a51f27f4"
+    },
+    "identities": [
+      {
+        "identity_id": "4f1f8705-8a8e-4c83-84c2-4a886286e943",
+        "id": "9afb31e0-901a-40f6-8d0a-dc71a51f27f4",
+        "user_id": "9afb31e0-901a-40f6-8d0a-dc71a51f27f4",
+        "identity_data": {
+          "email": "p30gbdev2@gmail.com",
+          "email_verified": true,
+          "firstName": "mahsa",
+          "lastName": "karimi",
+          "phone_verified": false,
+          "sub": "9afb31e0-901a-40f6-8d0a-dc71a51f27f4"
+        },
+        "provider": "email",
+        "last_sign_in_at": "2025-09-03T15:18:51.560171Z",
+        "created_at": "2025-09-03T15:18:51.561568Z",
+        "updated_at": "2025-09-03T15:18:51.561568Z",
+        "email": "p30gbdev2@gmail.com"
+      }
+    ],
+    "created_at": "2025-09-03T15:18:51.52665Z",
+    "updated_at": "2025-09-04T17:39:06.017023Z",
+    "is_anonymous": false
+  },
+  "session": {
+    "access_token": "eyJhbGciOiJIUzI1NiIsImtpZCI6IjErYzBJVGMzYjlXZVpBYlQiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2hyb3Vybmt6ZWN5cmx4cHprdmdsLnN1cGFiYXNlLmNvL2F1dGgvdjEiLCJzdWIiOiI5YWZiMzFlMC05MDFhLTQwZjYtOGQwYS1kYzcxYTUxZjI3ZjQiLCJhdWQiOiJhdXRoZW50aWNhdGVkIiwiZXhwIjoxNzU3MDExMTQ2LCJpYXQiOjE3NTcwMDc1NDYsImVtYWlsIjoicDMwZ2JkZXYyQGdtYWlsLmNvbSIsInBob25lIjoiIiwiYXBwX21ldGFkYXRhIjp7InByb3ZpZGVyIjoiZW1haWwiLCJwcm92aWRlcnMiOlsiZW1haWwiXX0sInVzZXJfbWV0YWRhdGEiOnsiZW1haWwiOiJwMzBnYmRldjJAZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImZpcnN0TmFtZSI6Im1haHNhIiwibGFzdE5hbWUiOiJrYXJpbWkiLCJwaG9uZV92ZXJpZmllZCI6ZmFsc2UsInN1YiI6IjlhZmIzMWUwLTkwMWEtNDBmNi04ZDBhLWRjNzFhNTFmMjdmNCJ9LCJyb2xlIjoiYXV0aGVudGljYXRlZCIsImFhbCI6ImFhbDEiLCJhbXIiOlt7Im1ldGhvZCI6InBhc3N3b3JkIiwidGltZXN0YW1wIjoxNzU3MDA3NTQ2fV0sInNlc3Npb25faWQiOiJjNWY4Y2M0Yi00NjY1LTRjODAtOGNiMC0yZWIyOWRjN2E1ZDIiLCJpc19hbm9ueW1vdXMiOmZhbHNlfQ.isvjrfzXVU-aIUQhP-NhpnZjDOqjFCwI7Qyo2LqbPvk",
+    "token_type": "bearer",
+    "expires_in": 3600,
+    "expires_at": 1757011146,
+    "refresh_token": "hd46itcdxp3q",
+    "user": {
+      "id": "9afb31e0-901a-40f6-8d0a-dc71a51f27f4",
+      "aud": "authenticated",
+      "role": "authenticated",
+      "email": "p30gbdev2@gmail.com",
+      "email_confirmed_at": "2025-09-03T15:21:20.474012Z",
+      "phone": "",
+      "confirmation_sent_at": "2025-09-03T15:18:51.581941Z",
+      "confirmed_at": "2025-09-03T15:21:20.474012Z",
+      "last_sign_in_at": "2025-09-04T17:39:06.012137877Z",
+      "app_metadata": { "provider": "email", "providers": ["email"] },
+      "user_metadata": {
+        "email": "p30gbdev2@gmail.com",
+        "email_verified": true,
+        "firstName": "mahsa",
+        "lastName": "karimi",
+        "phone_verified": false,
+        "sub": "9afb31e0-901a-40f6-8d0a-dc71a51f27f4"
+      },
+      "identities": [
+        {
+          "identity_id": "4f1f8705-8a8e-4c83-84c2-4a886286e943",
+          "id": "9afb31e0-901a-40f6-8d0a-dc71a51f27f4",
+          "user_id": "9afb31e0-901a-40f6-8d0a-dc71a51f27f4",
+          "identity_data": {
+            "email": "p30gbdev2@gmail.com",
+            "email_verified": true,
+            "firstName": "mahsa",
+            "lastName": "karimi",
+            "phone_verified": false,
+            "sub": "9afb31e0-901a-40f6-8d0a-dc71a51f27f4"
+          },
+          "provider": "email",
+          "last_sign_in_at": "2025-09-03T15:18:51.560171Z",
+          "created_at": "2025-09-03T15:18:51.561568Z",
+          "updated_at": "2025-09-03T15:18:51.561568Z",
+          "email": "p30gbdev2@gmail.com"
+        }
+      ],
+      "created_at": "2025-09-03T15:18:51.52665Z",
+      "updated_at": "2025-09-04T17:39:06.017023Z",
+      "is_anonymous": false
+    },
+    "weak_password": null
+  }
+}
