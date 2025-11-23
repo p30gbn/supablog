@@ -1,5 +1,49 @@
-# Vue 3 + Vite
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+# Supablog
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+modern personal blog bassed on veu3 , bootstrap-vue , tailwindcss & supabase api 
+
+
+## Authors
+
+- [@p30gbn](https://www.github.com/p30gbn)
+
+
+## Demo
+
+https://supablogmd.netlify.app
+
+## Features
+
+- Serverless backend on supabase
+- Add / remove & edit posts in Admin Panel 
+- Signup & Login
+- Client side paggination
+
+
+## Installation
+
+Install Supablog with npm
+
+```bash
+  npm install
+  npm run dev
+```
+    
+## 🚀 About Me
+I'm Mehdi , a medical doctor on the day & web/app developer on the night
+
+
+## 🛠 Skills
+Javascript, HTML, CSS,Tailwindcss,Veujs,Nodejs,Mysql...
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
+## Screenshots
+
+[![692330939b9fed56784f88ba.jpg](https://i.postimg.cc/W4bVHVWm/692330939b9fed56784f88ba.jpg)](https://postimg.cc/zyM4ys13)
+
